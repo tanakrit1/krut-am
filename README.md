@@ -1,2 +1,1 @@
-# krut-am
-line-bot-exam-php
+# LINE-BOT-PHP-Starter
